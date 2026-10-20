@@ -1262,7 +1262,7 @@ if ($readinessScore -ge 70) {
 
 <div align="center">
 
-**最后更新：2026-09-01 | By VPSVIP & ClashVIP 推荐**
+**最后更新：2026-10-20 | By VPSVIP & ClashVIP 推荐**
 
 🔗 [nav.clashvip.net](https://nav.clashvip.net) | [clashvip.net](https://clashvip.net) | [vpsvip.net](https://vpsvip.net) | [bbs.clashhub.net](https://bbs.clashhub.net) | [clash-for-windows.net](https://clash-for-windows.net)
 
